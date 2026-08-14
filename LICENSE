@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 tanishk1004
+Copyright (c) 2026 ResQ-Mesh Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,38 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+IMPORTANT DISCLAIMER:
+
+ResQ-Mesh is EMERGENCY DECISION-SUPPORT SOFTWARE for demonstration purposes.
+
+This software is NOT:
+- An autonomous medical diagnosis system
+- A replacement for trained emergency professionals
+- FDA-approved medical device software
+- Validated for real-world emergency deployment
+- Production-ready cryptographic software
+
+This software IS:
+- A hackathon prototype demonstrating concepts
+- Educational technology exploring offline-first emergency communication
+- A decision-support tool concept for emergency responders
+- Simulation software with demo-grade implementations
+
+Use of this software in actual emergency scenarios without proper validation,
+regulatory approval, and professional oversight is NOT RECOMMENDED and may be
+dangerous.
+
+Mesh networking, AI triage, and CV detection features are simulated or
+demo-grade implementations intended for conceptual demonstration only.
+
+Real-world deployment would require:
+- Native mobile applications with actual mesh radio integration
+- Production-grade cryptography and security audits
+- Validated computer vision models
+- Extensive field testing
+- Regulatory approval
+- Integration with existing emergency services
+- Professional training programs
